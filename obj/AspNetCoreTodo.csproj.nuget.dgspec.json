@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhpiego Nairobi\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
+    "C:\\Users\\Jhpiego Nairobi\\GitHub\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhpiego Nairobi\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
+    "C:\\Users\\Jhpiego Nairobi\\GitHub\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhpiego Nairobi\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectUniqueName": "C:\\Users\\Jhpiego Nairobi\\GitHub\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "projectName": "AspNetCoreTodo",
-        "projectPath": "C:\\Users\\Jhpiego Nairobi\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectPath": "C:\\Users\\Jhpiego Nairobi\\GitHub\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "packagesPath": "C:\\Users\\Jhpiego Nairobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhpiego Nairobi\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\",
+        "outputPath": "C:\\Users\\Jhpiego Nairobi\\GitHub\\AspNetCoreTodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
