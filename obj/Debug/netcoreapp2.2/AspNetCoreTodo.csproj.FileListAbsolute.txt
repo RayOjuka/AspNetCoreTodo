@@ -66,3 +66,4 @@ C:\Users\Jhpiego Nairobi\GitHub\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCor
 C:\Users\Jhpiego Nairobi\GitHub\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.dll
 C:\Users\Jhpiego Nairobi\GitHub\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.pdb
 C:\Users\Jhpiego Nairobi\GitHub\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.csproj.CopyComplete
+C:\Users\Jhpiego Nairobi\GitHub\AspNetCoreTodo\obj\Debug\netcoreapp2.2\Razor\Views\Todo\AddItemPartial.g.cshtml.cs
